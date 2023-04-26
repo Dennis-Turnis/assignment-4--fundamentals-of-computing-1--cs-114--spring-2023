@@ -1,6 +1,4 @@
-void setup() {
-  size(500, 500);
-}
-
-void draw() {
+void draw(){
+  background(255);
+  drawBoard();
 }
